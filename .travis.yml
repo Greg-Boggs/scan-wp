@@ -14,5 +14,5 @@ env:
 # configure notifications (email, IRC, campfire etc)
 notifications:
 notifications:
-  email: greg@boggs.com
+  email: me@gregboggs.com
   hipchat: tvqZloh2a5zw0VdurYncpMuNJ3PzNfbh5oJIdeKE@Drupal
