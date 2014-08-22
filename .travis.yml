@@ -20,5 +20,3 @@ before_script:
 # script: phpunit --configuration phpunit_$DB.xml --coverage-text
 # configure notifications (email, IRC, campfire etc)
 notifications:
-  email: me@gregboggs.com
-  hipchat: tvqZloh2a5zw0VdurYncpMuNJ3PzNfbh5oJIdeKE@Drupal
